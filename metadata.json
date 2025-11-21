@@ -1,0 +1,5 @@
+{
+  "name": "MindMap AI Planner",
+  "description": "A smart, agentic study planner that uses reasoning to generate optimized schedules based on subject difficulty and exam dates.",
+  "requestFramePermissions": []
+}
